@@ -1,0 +1,88 @@
+.navbar {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: white;
+}
+
+li.nav-item.active {
+    background-color: #3498db;
+    transition: top;
+}
+
+
+/*pulsante search*/
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    margin-right: 7px;
+    color: #3498db;
+    border-color: #3498db;
+}
+
+/*fine*/
+
+/*pulsante aquisto*/
+div.cart.container {
+    padding-left: 7px;
+}
+
+a.btn.btn-success {
+    background: #3498db;
+    color: white;
+    border-radius: 3px;
+    padding-right: 20px;
+}
+
+/*fine*/
+
+/*pulsante user*/
+button.btn.btn-success {
+    background: #3498db;
+    color: white;
+    border-radius: 3px;
+}
+
+div.user.container {
+    padding-left: 7px;
+    border-left: 1px solid #969696;
+}
+
+/*fine*/
+
+div.modal-body input {
+    margin-left: 0;
+    margin-top: 22px;
+    margin-left: 135px;
+}
+
+/*login text center*/
+h3.modal-title {
+    margin: auto;
+}
+
+.modal-header {
+    margin: auto
+}
+
+/*bottone cancel*/
+button.btn.btn-default {
+    color: #fff;
+    background-color: #f10707;
+    border-color: #d80303;
+}
+
+/*modal log and reg*/
+.modal-footer {
+    margin: auto;
+}
+
+div.login-help {
+    margin: auto;
+}
+
+/*fine*/
+
+/*carousel*/
+.carousel-item {
+    background-size: cover;
+    min-height: 600px;
+    background-position: center center;
+}

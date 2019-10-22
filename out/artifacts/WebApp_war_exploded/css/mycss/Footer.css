@@ -1,0 +1,29 @@
+
+.wrapper {
+    margin-top: 10px;
+    display: flex;
+    border-top: 1px solid #3498db;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    color: #3498db;
+    padding: 1em;
+    width: 80%;
+    border-top: 1px solid white;
+    justify-content: center;
+}
+
+footer i {
+    padding: 1em;
+}
+
+div.studenti{
+    color: #3498db;
+    margin: 1em;
+    padding: 1em;
+    width: 80%;
+    border-top: 1px white;
+    justify-content: center;
+}

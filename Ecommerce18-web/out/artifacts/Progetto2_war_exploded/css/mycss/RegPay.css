@@ -1,0 +1,45 @@
+/*Paypal*/
+div.paymant {
+    width: 500px;
+    margin: auto;
+    background-position: center center;
+    padding-top: 120px;
+}
+
+div.reg.form-group {
+    width: 500px;
+    margin: auto;
+    background-position: center center;
+    padding-top: 120px;
+}
+div.reg {
+    margin: auto;
+    width: max-content;
+}
+
+/*Tabella*/
+div.tab.container {
+    width: fit-content;
+    padding-top: 200px;
+
+}
+
+table.table.table-hover.table-responsive {
+    width: auto;
+}
+
+/*Fine Tabella*/
+
+/*product view*/
+div.product.row {
+    padding-top: 140px;
+}
+
+/*Fine product view*/
+
+
+/*Cart*/
+div.cartShop {
+    padding-top: 140px;
+}
+/*Fine cart*/
